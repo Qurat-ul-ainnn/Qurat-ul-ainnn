@@ -31,9 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Qurat-ul-ainnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qurat-ul-ainnn&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qurat-ul-ainnn&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages"/>
 </div>
-
 ###
 
 <h2 align="left">💼 Work Experience</h2>
