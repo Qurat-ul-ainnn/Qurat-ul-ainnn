@@ -26,15 +26,6 @@
 
 ###
 
-<h2 align="left">📈 GitHub Stats & Activity</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurat-ul-ainnn&theme=tokyonight" width="95%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurat-ul-ainnn&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurat-ul-ainnn&theme=tokyonight" />
-</div>
-###
-
 <h2 align="left">💼 Work Experience</h2>
 
 ###
@@ -50,7 +41,13 @@
 <p align="left">☁️ Cloud & Data Engineering: AWS (S3, EC2, IAM, Glue), Snowflake, ETL/ELT pipelines, data warehousing, batch & streaming processing<br>🖥️ Programming & Querying: Python, SQL, Bash/Shell<br>🔄 Data Orchestration: Apache Airflow, Spark/PySpark, Kafka<br>🗄️ Databases & Storage: PostgreSQL, MySQL, SQL Server, Mongodb<br>⚙️ DevOps & Tools: Docker, Git/GitHub, Linux, CI/CD fundamentals</p>
 
 ###
+<h2 align="left">📈 GitHub Stats & Activity</h2>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurat-ul-ainnn&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurat-ul-ainnn&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurat-ul-ainnn&theme=tokyonight" />
+</div>
 <h2 align="left">🎖️ Certifications</h2>
 
 ###
