@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="206" src="https://github.com/Qurat-ul-ainnn/Articles/blob/main/DE%20Associate%20-%20Facebook.png?raw=true"  />
+  <img height="206" src="https://github.com/Qurat-ul-ainnn/Articles/blob/main/DE%20-%20LinkedIn.png?raw=true" />
 </div>
 
 ###
