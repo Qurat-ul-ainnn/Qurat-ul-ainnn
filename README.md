@@ -29,8 +29,7 @@
 <h2 align="left">📈 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://gh-readme-stats.hackclub.dev/api?username=Qurat-ul-ainnn&show_icons=true&theme=dracula" height="165"/>
-  <img src="https://gh-readme-stats.hackclub.dev/api/top-langs/?username=Qurat-ul-ainnn&layout=compact&theme=dracula" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurat-ul-ainnn&theme=dracula" width="95%"/>
 </div>
 ###
 
