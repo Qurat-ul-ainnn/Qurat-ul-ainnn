@@ -29,7 +29,9 @@
 <h2 align="left">📈 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurat-ul-ainnn&theme=dracula" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qurat-ul-ainnn&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qurat-ul-ainnn&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qurat-ul-ainnn&theme=tokyonight" />
 </div>
 ###
 
