@@ -1,156 +1,118 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Qurat%20ul%20Ain&fontSize=40&fontColor=ffffff&theme=cobalt" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h2 align="center">Cloud & Data Engineer ☁️</h2>
-<h4 align="center">AWS • Data Engineering • Scalable Data Systems • ETL/ELT</h4>
+###
 
----
+<h2 align="center">Hi, I am Qurat ul Ain 👋</h2>
 
-## 🧠 About Me
+###
 
-I am a Cloud & Data Engineer focused on designing and building **AWS-based production-grade data platforms**.
+<h3 align="center">🛰️ Cloud & Data Engineer<br>Data Engineering | AWS | Scalable Data Systems</h3>
 
-I specialize in:
-
-- Building scalable ETL/ELT pipelines  
-- Designing cloud-native data architectures  
-- Optimizing performance and cost in AWS  
-- Implementing secure, reliable data workflows  
-- Automating infrastructure and deployments  
-
-I work across the full data lifecycle — from ingestion and transformation to orchestration, warehousing, and analytics enablement.
-
-My goal is simple:  
-> Build clean, reliable, and scalable data systems that teams can trust.
-
----
-
-## 🚀 Core Expertise
-
-### ☁️ Cloud & Data Engineering
-- AWS (S3, EC2, IAM, Glue, Lambda, API Gateway)
-- Snowflake
-- Data Warehousing
-- Batch & Streaming Processing
-- Cloud Security Best Practices
-
-### 🔄 Data Orchestration & Processing
-- Apache Airflow
-- Spark / PySpark
-- Kafka
-- ETL / ELT Architecture
-- Workflow Automation
-
-### 💻 Programming & Querying
-- Python
-- SQL (PostgreSQL, MySQL, SQL Server)
-- Bash / Shell
-
-### ⚙️ DevOps & Tools
-- Docker
-- Git & GitHub
-- Linux
-- CI/CD (GitHub Actions, Jenkins)
-
----
-
-## 💼 Work Experience
-
-### 🐍 Python Developer  
-**Machine Learning 1 Pvt. Ltd** (Sep 2025 – Nov 2025)
-
-- Built automated Python-based data pipelines  
-- Designed validation systems for high-volume document processing  
-- Improved reliability through structured logging & error handling  
-- Optimized workflows for performance and maintainability  
-
----
-
-### 🔐 Cloud SecOps Intern  
-**Microtechx** (Aug 2025 – Dec 2025)
-
-- Configured secure AWS environments  
-- Integrated AWS IAM Identity Center with Microsoft Entra ID (MFA + least privilege)  
-- Managed EC2, S3, and cloud deployments  
-- Supported CI/CD pipelines (GitHub Actions + Jenkins)  
-- Implemented conditional access & just-in-time authorization  
-- Integrated API Gateway with Lambda & EC2 backends  
-
----
-
-## 🏗 Featured Data Engineering Projects
-
-### 🔹 AWS ETL Pipeline
-- S3 → AWS Glue → Snowflake
-- Data validation & transformation layer
-- Automated orchestration
-- Optimized storage & query performance
-
-### 🔹 Airflow Orchestrated Data Workflow
-- DAG-based pipeline automation
-- Logging & failure handling
-- Production-style task dependencies
-
-### 🔹 Streaming Data Processing
-- Kafka-based ingestion
-- PySpark transformations
-- Real-time pipeline design principles
-
-(More projects pinned below 👇)
-
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qurat-ul-ainnn&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qurat-ul-ainnn&layout=compact&theme=dracula&cache_seconds=86400" height="165"/>
+  <img height="206" src="https://github.com/Qurat-ul-ainnn/Articles/blob/main/DE%20Associate%20-%20Facebook.png?raw=true"  />
 </div>
 
----
+###
 
-## 🎓 Education
+<h2 align="left">🧾 About Me</h2>
 
-**Bachelor of Science in Software Engineering**  
-COMSATS University, Islamabad  
+###
 
----
+<p align="left">I am a Cloud and Data Engineer with a strong focus on building AWS-based, production-grade data systems. I specialize in designing, implementing, and optimizing scalable data pipelines and cloud-native architectures that support analytics, reporting, and data-driven decision-making. My experience spans the full data lifecycle from data ingestion and transformation to orchestration and storage optimization. I place strong emphasis on performance, reliability, automation, and cost efficiency, ensuring that data platforms remain robust and maintainable at scale.I continuously enhance my skills through hands-on projects and industry-recognized certifications, with a clear goal of delivering high-quality, dependable data solutions in cloud environments.</p>
 
-## 🎖 Certifications
+###
 
-- AWS Cloud Practitioner (CLF-C02)  
-- AWS Cloud Practitioner Essentials  
-- Deep Dive with AWS IAM  
-- DataCamp Associate Data Engineer in SQL  
-- Data Analytics Professional Certificate  
-- Containerization with Docker & Kubernetes  
+<h2 align="left">📈 GitHub Stats & Activity</h2>
 
----
+<div align="center">
+  <img src="https://gh-readme-stats.hackclub.dev/api?username=Qurat-ul-ainnn&show_icons=true&theme=dracula" height="165"/>
+  <img src="https://gh-readme-stats.hackclub.dev/api/top-langs/?username=Qurat-ul-ainnn&layout=compact&theme=dracula" height="165"/>
+</div>
+###
 
-## 🌐 Connect With Me
+<h2 align="left">💼 Work Experience</h2>
+
+###
+
+<p align="left">• Python Developer<br>Machine Learning 1 Pvt. Ltd (Sep 2025– Nov 2025)<br><br> Automated Python-based data pipelines and validation scripts for high-volume document processing.– Improved system reliability through structured logging, error handling, and workflow optimization. Gained hands-on experience with Bash scripting, Git CLI, and automation tools.<br><br>• Cloud SecOps Intern<br>Microtechx (Aug 2025– Dec 2025)<br><br> Configured and maintained AWS cloud environments following security best practices.– Integrated AWS IAM Identity Center (SSO) with Microsoft Entra ID using MFA and least-privilege policies.– Supported CI/CD pipelines using GitHub Actions and Jenkins for secure deployments.– Implemented conditional access and just-in-time authorization for enhanced cloud security.– Managed AWS EC2 and S3 resources for deployment and storage automation.– Integrated API Gateway with Lambda and EC2 backends for streamlined API delivery.</p>
+
+###
+
+<h2 align="left">🧩 Skills</h2>
+
+###
+
+<p align="left">☁️ Cloud & Data Engineering: AWS (S3, EC2, IAM, Glue), Snowflake, ETL/ELT pipelines, data warehousing, batch & streaming processing<br>🖥️ Programming & Querying: Python, SQL, Bash/Shell<br>🔄 Data Orchestration: Apache Airflow, Spark/PySpark, Kafka<br>🗄️ Databases & Storage: PostgreSQL, MySQL, SQL Server, Mongodb<br>⚙️ DevOps & Tools: Docker, Git/GitHub, Linux, CI/CD fundamentals</p>
+
+###
+
+<h2 align="left">🎖️ Certifications</h2>
+
+###
+
+<p align="left">• Data Analytics Professional Certificate<br>• DataCamp Associate Data Engineer in SQL<br>• AWS Cloud Practitioner (CLF-C02)<br>• AWS Cloud Practitioner Essentials<br>• Deep Dive with Security: AWS Identity and Access Management (IAM)<br>• Containerization with Docker and Kubernetes</p>
+
+###
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+###
 
 <div align="left">
-  <a href="mailto:quratulainrafique007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/qura-tul-ain-rafique-55a94a261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Qurat_ul_ainnn">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/26816749/qurat-ul-ain">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
----
+###
 
-⭐ Always open to opportunities in:
-- Data Engineering
-- Cloud Engineering
-- Data Platform Roles
-- AWS-based Infrastructure
+<h2 align="left">🎓 Education</h2>
 
-Let’s build scalable systems.
+###
+
+<p align="left">Bachelor of Science in Software Engineering<br>COMSATS University, Islamabad</p>
+
+###
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+###
+
+<div align="left">
+  <a href="quratulainrafique007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/qura-tul-ain-rafique-55a94a261/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Qurat_ul_ainnn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/26816749/qurat-ul-ain" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+</div>
